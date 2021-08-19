@@ -6,7 +6,7 @@ AZ_TENANT_ID =
 AZ_SECRET = 
 AZ_RESOURCE_GROUP_NAME = 
 VM_NAME = 
-AZ_LOCATION = 
+#AZ_LOCATION = 
 
 
 # ------------------------------------ #
